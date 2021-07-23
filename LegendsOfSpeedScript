@@ -1,0 +1,30 @@
+getgenv().blueGems = true -- change to false to stop autofarm -- 
+getgenv().yellowOrbs = true -- Change to false to stop autofarm -- 
+getgenv().redOrbs = true -- Change to false to stop autofarm -- 
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+
+spawn(function()
+while blueGems do
+RunService.Heartbeat:Wait()
+local args = {[1] = "collectOrb",[2] = "Gem",[3] = "City"} -- Gems
+ReplicatedStorage.rEvents.orbEvent:FireServer(unpack(args))
+end
+end)
+
+spawn(function()
+while yellowOrbs do
+RunService.Heartbeat:Wait()
+local args = {[1] = "collectOrb",[2] = "Yellow Orb",[3] = "City"} -- XP
+ReplicatedStorage.rEvents.orbEvent:FireServer(unpack(args))
+end
+end)
+
+spawn(function()
+while redOrbs do
+RunService.Heartbeat:Wait()
+local args = {[1] = "collectOrb",[2] = "Red Orb",[3] = "City"} -- Steps
+ReplicatedStorage.rEvents.orbEvent:FireServer(unpack(args))
+end
+end)
