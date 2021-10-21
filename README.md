@@ -13,4 +13,4 @@ We Are Working on A Custom API and dll for PDennSploit. Currently It Just Uses E
 
 # Credits
 
-Made By (Payson Holmes)[https://github.com/P-DennyGamingYT/]
+Made By [Payson Holmes](https://github.com/P-DennyGamingYT)
