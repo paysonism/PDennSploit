@@ -17,9 +17,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+  </div>
 
 
 
@@ -151,7 +153,7 @@ Made By [Payson Holmes](https://github.com/P-DennyGamingYT)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/P-DennyGamingYT/PDennSploit.svg
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/P-DennyGamingYT/PDennSploit.svg
 [forks-url]: https://github.com/P-DennyGamingYT/PDennSploit/network/members
 [stars-shield]: https://img.shields.io/github/stars/P-DennyGamingYT/PDennSploit.svg
 [stars-url]: https://github.com/P-DennyGamingYTPDennSploit/stargazers
