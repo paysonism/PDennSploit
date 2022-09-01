@@ -38,9 +38,9 @@
     <a href="https://github.com/P-DennyGamingYT/PDennSploit"><strong>Read the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/P-DennyGamingYT/PDennSploit">Report</a>
+    <a href="https://github.com/P-DennyGamingYT/PDennSploit/issues">Issues</a>
     ·
-    <a href="http://download.pdennsploit.ml/">Download</a>
+    <a href="https://pdenny.xyz/pdennsploit/">Download</a>
     ·
     <a href="https://dsc.gg/PDennSploit">Discord</a>
   </p>
