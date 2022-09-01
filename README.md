@@ -33,7 +33,7 @@
   <h3 align="center">PDennSploit</h3>
 
   <p align="center">
-    #1 FREE SCRIPT UTILITY
+    Exploiting, Reimagined
     <br />
     <a href="https://github.com/P-DennyGamingYT/PDennSploit"><strong>Read the docs »</strong></a>
     <br />
