@@ -17,12 +17,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<div class="badges">
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Downloads][downloads-shield]][downloads-url]
-</div>
+<img src="downloads-shield">
 
 
 <!-- PROJECT LOGO -->
