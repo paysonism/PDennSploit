@@ -115,11 +115,11 @@ Contributions help out a lot, if you would please send me an email or create a p
 
 Here are the simple steps of contributing.
 
-1. Download the project source code.
-2. Edit the source for what you want.
-3. Create a public GitHub repository named PDennSploit-CON
-4. Upload your edited source code.
-5. Email me a link to your github repository.
+1. Create your code with a video tutorial on how to use it.
+2. DM me or email me on discord.
+3. Wait for me to respond or accept it!
+
+NOTE: PDennSploit is not open source! You are just sending me code snippets to use in PDennSploit.
 
 <p align="right">(<a href="#top">Back To Top</a>)</p>
 
@@ -127,7 +127,9 @@ Here are the simple steps of contributing.
 <!-- CONTACT -->
 ## Contact
 
-Join the [discord server](https://dsc.gg/PDennSploit).
+Join the [discord server](https://dsc.gg/PDennSploit)
+
+DM [me](https://discord.gg/users/820680923887566868) on discord
 
 Email me: [paysonholmes@gmail.com](mailto:paysonholmes@gmail.com)
 
