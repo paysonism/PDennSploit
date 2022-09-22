@@ -21,8 +21,6 @@
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Downloads][downloads-shield]][downloads-url]
-<img src="downloads-shield">
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -74,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![PDennSploit][product-screenshot]](http://pdennsploit.ml/)
+[![PDennSploit][product-screenshot]](https://pdenny.xyz/)
 
 PDennSploit is a free to use roblox exploit. It was created by [Payson Holmes](https://github.com/P-DennyGamingYT/) two years ago on November 17th 2020. It was used as  private exploit for his friends to play and mess around with. Then on March 24th 2021, PDennSploit went public. Ever since there have been updates and many features being added to make it superior over other free exploits.
 
