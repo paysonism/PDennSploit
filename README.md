@@ -20,6 +20,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Downloads][downloads-shield]][downloads-url]
 
 
 
@@ -40,7 +41,7 @@
     <br />
     <a href="https://github.com/P-DennyGamingYT/PDennSploit/issues">Issues</a>
     ·
-    <a href="https://pdenny.xyz/pdennsploit/">Download</a>
+    <a href="https://github.com/P-DennyGamingYT/PDennSploit/releases/latest/download/Release.zip"><b>Download</b></a>
     ·
     <a href="https://dsc.gg/PDennSploit">Discord</a>
   </p>
@@ -162,3 +163,5 @@ Made By [Payson Holmes](https://github.com/P-DennyGamingYT)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[downloads-shield]: https://img.shields.io/github/downloads/P-DennyGamingYT/PDennSploit/total.svg
+[downloads-url]: https://github.com/P-DennyGamingYT/PDennSploit/releases/latest
