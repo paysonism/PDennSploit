@@ -162,6 +162,6 @@ Made By [Payson Holmes](https://github.com/P-DennyGamingYT)
 [license-url]: https://github.com/P-DennyGamingYT/PDennSploit/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshot.png
 [downloads-shield]: https://img.shields.io/github/downloads/P-DennyGamingYT/PDennSploit/total.svg
 [downloads-url]: https://github.com/P-DennyGamingYT/PDennSploit/releases/latest
