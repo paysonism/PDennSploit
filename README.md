@@ -82,6 +82,11 @@ PDennSploit is a free to use roblox exploit. It was created by [Payson Holmes](h
 
 
 <!-- GETTING STARTED -->
+
+#IMPORTANT
+
+THIS IS AN OLD PROJECT. I AM NOT GONNA RELEASE THE SOURCE CODE TO THIS BUT IF YOU WANNA BUY IT OR SOMETHING YOU CAN IG.
+
 ## Getting Started
 
 The following of this README will teach you how to use and develop PDennSploit.
